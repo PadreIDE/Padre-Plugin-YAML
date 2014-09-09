@@ -26,7 +26,7 @@ no_index directory qw{ inc share t xt }
 
 homepage   http://padre.perlide.org/trac/wiki/PadrePluginYAML
 bugtracker http://padre.perlide.org
-repository http://svn.perlide.org/padre/trunk/Padre-Plugin-YAML
+repository https://github.com/PadreIDE/Padre-Plugin-YAML
 
 install_share
 
